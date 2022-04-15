@@ -1,0 +1,21 @@
+{
+  "layerPercentage": 100.0,
+  "layerName": "Base",
+  "layerTraitCount": 3,
+  "0": {
+    "traitName": "Cloud Background",
+    "percentChance": 25.0,
+    "filePath": "src/examples/input/Base/bg_cloud.png"
+  },
+  "1": {
+    "traitName": "Drip Background",
+    "percentChance": 50.0,
+    "filePath": "src/examples/input/Base/bg_drip.png"
+  },
+  "2": {
+    "traitName": "Fence Background",
+    "percentChance": 50.0,
+    "filePath": "src/examples/input/Base/bg_fence.png"
+  }
+}
+

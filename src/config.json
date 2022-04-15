@@ -1,0 +1,13 @@
+{
+  "outputAmount": 5,
+  "unique": true,
+  "imageWidth": 1280,
+  "imageHeight": 1280,
+  "imageDataDirectory": "src/data/input/",
+  "imageOutputDirectory": "src/data/output/",
+  "layers": [
+    "src/examples/input/Base",
+    "src/examples/input/Accessories"
+  ]
+}
+

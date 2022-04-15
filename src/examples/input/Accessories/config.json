@@ -1,0 +1,16 @@
+{
+  "layerPercentage": 100.0,
+  "layerName": "Accessories",
+  "layerTraitCount": 2,
+  "0": {
+    "traitName": "Cuban Chain",
+    "percentChance": 75.0,
+    "filePath": "src/examples/input/Accessories/accessory_cuban_chain.png"
+  },
+  "1": {
+    "traitName": "Buffalo Scarf",
+    "percentChance": 25.0,
+    "filePath": "src/examples/input/Accessories/accessory_scarf_buffalo_check.png"
+  }
+}
+

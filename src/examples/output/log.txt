@@ -1,0 +1,11 @@
+3:41:50>>   Getting layer data
+3:41:50>>   Finished getting layer data
+3:41:50>>   Image Stitching started with the following settings: { 
+ Output# 5
+ Unique: true
+}
+3:41:50>>   Created image#0 as 0.png
+3:41:50>>   Created image#1 as 1.png
+3:41:50>>   Created image#2 as 2.png
+3:41:50>>   Created image#3 as 3.png
+3:41:50>>   Created image#4 as 4.png
